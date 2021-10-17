@@ -10,7 +10,7 @@ A collection of resources around software development. Please commit anything ex
 - [SourceMaking](https://sourcemaking.com/design_patterns) - Information about the common software design patterns
 
 ### Open Source Software
-- [Goodfirstissue.dev](https://goodfirstissue.dev/) & [goodfirstissues.com](https://goodfirstissues.com/) - List of open source issues which are good for first time contributers
+- [Goodfirstissue.dev](https://goodfirstissue.dev/) & [Goodfirstissues.com](https://goodfirstissues.com/) - List of open source issues which are good for first time contributers
 
 ### Operating Systems
 - [Write a simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) -  A document written by Nick Blundell detailing how basic OS are written
