@@ -29,3 +29,10 @@ A collection of resources around software development. Please commit anything ex
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
+
+
+### YouTube Channels
+
+ - [Fireship](https://www.youtube.com/c/Fireship) - Short introductions and summaries on a variety of different tech topics
+ - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey) - Tutorials for .NET/C# and professional skills podcast
+ - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) - Computer hardware reviews
