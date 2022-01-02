@@ -23,6 +23,7 @@ A collection of resources around software development. Please commit anything ex
 
 ### Other resource collections
 
+ - [daily.dev](https://app.daily.dev/) - Tech articles scrapped and voted upon by the community. Also available as a browser plugin
  - [Morning Dew](https://www.alvinashcraft.com/) - Collection of resource updated regularly by Alvin Ashcraft
  - [The Morning Brew](http://themorningbrew.net/) - Daily .NET software blog updated by Chris Alcock
  - [Feedly](https://feedly.com/i/welcome) - Tool for keeping your information filtered to a small collection of trusted source and reduce noise
