@@ -9,6 +9,9 @@ A collection of resources around software development. Please commit anything ex
 ### Design principles and patterns
 - [SourceMaking](https://sourcemaking.com/design_patterns) - Information about the common software design patterns
 
+### Guides
+- [Developer Roadmaps](https://roadmap.sh/) - Roadmaps and guides for developers (both front and backend), DBAs and devops engineers
+
 ### Open Source Software
 - [Goodfirstissue.dev](https://goodfirstissue.dev/) & [Goodfirstissues.com](https://goodfirstissues.com/) - List of open source issues which are good for first time contributers
 
