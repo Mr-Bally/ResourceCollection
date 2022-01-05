@@ -1,0 +1,18 @@
+# Workflow to test URLs linked in the README work
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push, pull requests and manually from the Actions tab
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run script
+        run: sh ./action-script.sh
