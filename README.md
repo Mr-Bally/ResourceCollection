@@ -34,6 +34,10 @@ A collection of resources around software development. Please commit anything ex
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
 
+### Web
+ 
+ - [No More Google](https://nomoregoogle.com/) - Alternatives from Google products
+
 
 ### YouTube Channels
 
