@@ -39,7 +39,7 @@ A collection of resources around software development. Please commit anything ex
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
- - [Netflix Tech Blo](https://netflixtechblog.com/) - Insights into how the Netflix platform works
+ - [Netflix Tech Blog](https://netflixtechblog.com/) - Insights into how the Netflix platform works
 
 ### Web
  
