@@ -2,7 +2,8 @@
 echo Starting script
 
 fileContents=$(<README.md)
-echo Finished reading README
+echo Finished reading README, contents:
+echo $fileContents
 
 matches="$(echo $fileContents | grep -Po "\(http[s]+:\/\/\S+\)")"
 
