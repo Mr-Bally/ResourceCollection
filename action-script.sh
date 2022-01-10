@@ -1,5 +1,6 @@
 #!/bin/bash
-echo Starting script
+echo Starting script, current dict:
+echo $(ls)
 
 fileContents=$(<README.md)
 echo Finished reading README, contents:
