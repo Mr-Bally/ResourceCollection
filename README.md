@@ -9,6 +9,9 @@ A collection of resources around software development. Please commit anything ex
 - [Katacoda](https://katacoda.com/) - Learn new technologies from your browser
 - [TechRez](https://techrez.io/) - Create professional CV /resume
 
+### Challenges & Practice
+- [Advent of Code](https://adventofcode.com/) - Annual Christmas coding challenge over 25 days
+
 ### Community
 - [DEV](https://dev.to/) - A site to interact with other members of the developer community
 
