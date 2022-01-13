@@ -3,12 +3,9 @@ echo Starting script, current dict:
 echo $(ls)
 
 fileContents=`cat README.md`
-echo Finished reading README, contents:
-echo $fileContents
+echo Finished reading README
 
 matches="$(echo $fileContents | grep -Po "\(http[s]+:\/\/\S+\)")"
-
-echo Matches: $matches
 
 for word in $matches; do
     echo Processing: $word
