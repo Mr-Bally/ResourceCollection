@@ -2,7 +2,7 @@
 echo Starting script, current dict:
 echo $(ls)
 
-fileContents=$(<./README.md)
+fileContents=`cat README.md`
 echo Finished reading README, contents:
 echo $fileContents
 
