@@ -16,7 +16,7 @@ for word in $matches; do
     result=$(curl -I -s "$url" -o /dev/null -w "%{http_code}\n")
     echo Result: $result 
 
-    if [[ "$result" -ne 200 ]] ; then
+    if [ "$result" -ne 200 ] ; then
         echo Error calling $url
         exit 1;
     fi
