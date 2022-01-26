@@ -3,6 +3,15 @@ A collection of resources around software development. Please commit anything ex
 
 ## Resource list
 
+### Career / Professional Development
+- [CoderByte](https://coderbyte.com/) - Interview prep and coding challenges
+- [HackerRank](https://www.hackerrank.com/) - Interview prep and coding challenges
+- [Katacoda](https://katacoda.com/) - Learn new technologies from your browser
+- [TechRez](https://techrez.io/) - Create professional CV /resume
+
+### Challenges & Practice
+- [Advent of Code](https://adventofcode.com/) - Annual Christmas coding challenge over 25 days
+
 ### Community
 - [DEV](https://dev.to/) - A site to interact with other members of the developer community
 
@@ -33,6 +42,7 @@ A collection of resources around software development. Please commit anything ex
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
+ - [Netflix Tech Blog](https://netflixtechblog.com/) - Insights into how the Netflix platform works
 
 ### Web
  
