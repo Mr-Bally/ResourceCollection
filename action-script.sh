@@ -19,9 +19,11 @@ for word in $matches; do
     echo Result: $result 
 
     if [ "$result" -ne 200 ] ; then
+        
         echo Error calling $url
-
-        if [ $knownUrlFailures =~ "$url" ] ; then
+        grepMatch="$(echo $knownUrlFailures | grep $url)"
+        
+        if [ ${#grepMatch}  -ne 0 ]; then
             knownFail=1
         fi
 
