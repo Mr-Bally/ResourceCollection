@@ -2,7 +2,7 @@
 echo Starting script, current dict:
 echo $(ls)
 
-knownUrlFailures="https://haveibeenpwned.com/ https://news.ycombinator.com/"
+knownUrlFailures="https://haveibeenpwned.com/ https://news.ycombinator.com/ https://katacoda.com/"
 
 fileContents=`cat README.md`
 echo Finished reading README
@@ -21,7 +21,7 @@ for word in $matches; do
     if [ "$result" -ne 200 ] ; then
         echo Error calling $url
 
-        if [[ $knownUrlFailures =~ $url ]] ; then
+        if [ $knownUrlFailures =~ $url ] ; then
             knownFail=1
         fi
 
