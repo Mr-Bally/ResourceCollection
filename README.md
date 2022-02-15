@@ -1,5 +1,5 @@
 # Resource Collection
-A collection of resources around software development. Please commit anything extra which you think would be useful. This does not contain generic tutorials for specific frameworks or languages.
+A collection of resources around software development. Please commit anything extra which you think would be useful.
 
 ## Resource list
 
