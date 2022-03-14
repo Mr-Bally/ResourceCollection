@@ -31,6 +31,7 @@ A collection of resources around software development. Please commit anything ex
 
  - [AmIUnique](https://amiunique.org/fp) - Identifies how unique your digital fingerprint is
  - [Have I Been Pwned](https://haveibeenpwned.com/) - Details security breaches and whether your credentials have been compromised
+ - [Security Headers](https://securityheaders.com/) - Scans website security headers
  - [Shodan](https://www.shodan.io/) - IOT network monitor 
 
 ### Other resource collections
