@@ -16,6 +16,7 @@ A collection of resources around software development. Please commit anything ex
 - [DEV](https://dev.to/) - A site to interact with other members of the developer community
 
 ### Design principles and patterns
+- [Refactoring Guru](https://refactoring.guru/) - Resources around OO design patterns and refactoring
 - [SourceMaking](https://sourcemaking.com/design_patterns) - Information about the common software design patterns
 
 ### Guides
