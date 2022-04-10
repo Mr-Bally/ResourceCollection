@@ -49,6 +49,7 @@ A collection of resources around software development. Please commit anything ex
 
 ### Web
  
+ - [Can I Use](https://caniuse.com/) - Support table for HTML and CSS
  - [No More Google](https://nomoregoogle.com/) - Alternatives from Google products
 
 
