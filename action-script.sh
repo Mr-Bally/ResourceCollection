@@ -2,7 +2,7 @@
 echo Starting script, current dict:
 echo $(ls)
 
-knownUrlFailures="https://haveibeenpwned.com/ https://news.ycombinator.com/ https://katacoda.com/"
+knownUrlFailures="https://haveibeenpwned.com/ https://news.ycombinator.com/ https://katacoda.com/ https://caniuse.com/"
 
 fileContents=`cat README.md`
 echo Finished reading README
