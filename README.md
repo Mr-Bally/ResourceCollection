@@ -46,7 +46,7 @@ A collection of resources around software development. Please commit anything ex
  - [Netflix Tech Blog](https://netflixtechblog.com/) - Insights into how the Netflix platform works
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [The Morning Brew](http://themorningbrew.net/) - Daily .NET software blog updated by Chris Alcock
- - [Stay SaaSy] (https://staysaasy.com/) - Engineering and business process help
+ - [Stay SaaSy](https://staysaasy.com/) - Engineering and business process help
 
 ### Web
  
