@@ -39,13 +39,14 @@ A collection of resources around software development. Please commit anything ex
 ### Other resource collections
 
  - [daily.dev](https://app.daily.dev/) - Tech articles scrapped and voted upon by the community. Also available as a browser plugin
- - [Morning Dew](https://www.alvinashcraft.com/) - Collection of resource updated regularly by Alvin Ashcraft
- - [The Morning Brew](http://themorningbrew.net/) - Daily .NET software blog updated by Chris Alcock
  - [Feedly](https://feedly.com/i/welcome) - Tool for keeping your information filtered to a small collection of trusted source and reduce noise
- - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
+ - [Morning Dew](https://www.alvinashcraft.com/) - Collection of resource updated regularly by Alvin Ashcraft
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
  - [Netflix Tech Blog](https://netflixtechblog.com/) - Insights into how the Netflix platform works
+ - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
+ - [The Morning Brew](http://themorningbrew.net/) - Daily .NET software blog updated by Chris Alcock
+ - [Stay SaaSy] (https://staysaasy.com/) - Engineering and business process help
 
 ### Web
  
