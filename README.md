@@ -24,8 +24,8 @@ A collection of resources around software development. Please commit anything ex
 - [Refactoring Guru](https://refactoring.guru/) - Resources around OO design patterns and refactoring
 - [SourceMaking](https://sourcemaking.com/design_patterns) - Information about the common software design patterns
 
-### Guides
-- [Developer Roadmaps](https://roadmap.sh/) - Roadmaps and guides for developers (both front and backend), DBAs and devops engineers
+### Historical
+- [Enigma Machine](https://web.stanford.edu/class/cs106j/handouts/36-TheEnigmaMachine.pdf) - Explanation on how the Enigma machine functions
 
 ### Open Source Software
 - [Goodfirstissue.dev](https://goodfirstissue.dev/) & [Goodfirstissues.com](https://goodfirstissues.com/) - List of open source issues which are good for first time contributers
@@ -34,7 +34,6 @@ A collection of resources around software development. Please commit anything ex
 - [Write a simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) -  A document written by Nick Blundell detailing how basic OS are written
 
 ### Security
-
  - [AmIUnique](https://amiunique.org/fp) - Identifies how unique your digital fingerprint is
  - [Have I Been Pwned](https://haveibeenpwned.com/) - Details security breaches and whether your credentials have been compromised
  - [Security Headers](https://securityheaders.com/) - Scans website security headers
@@ -42,7 +41,7 @@ A collection of resources around software development. Please commit anything ex
  - [Report URI](https://report-uri.com/home/tools) - Number of tools for checking security headers and building content security policies (CSP)
 
 ### Other resource collections
-
+ - [Cheat sheet collection](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1) - Medium hosted
  - [daily.dev](https://app.daily.dev/) - Tech articles scrapped and voted upon by the community. Also available as a browser plugin
  - [Feedly](https://feedly.com/i/welcome) - Tool for keeping your information filtered to a small collection of trusted source and reduce noise
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
@@ -54,14 +53,12 @@ A collection of resources around software development. Please commit anything ex
  - [Stay SaaSy](https://staysaasy.com/) - Engineering and business process help
 
 ### Web
- 
  - [Can I Use](https://caniuse.com/) - Support table for HTML and CSS
  - [Defensive CSS](https://defensivecss.dev/) - Practical CSS with examples
  - [No More Google](https://nomoregoogle.com/) - Alternatives from Google products
 
 
 ### YouTube Channels
-
  - [Fireship](https://www.youtube.com/c/Fireship) - Short introductions and summaries on a variety of different tech topics
  - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey) - Tutorials for .NET/C# and professional skills podcast
  - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) - Computer hardware reviews
