@@ -33,6 +33,9 @@ A collection of resources around software development. Please commit anything ex
 ### Operating Systems
 - [Write a simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) -  A document written by Nick Blundell detailing how basic OS are written
 
+### Programming Languages
+- [Energy Efficiency](https://sites.google.com/view/energy-efficiency-languages/?pli=1) - Paper detailing the energy efficiency of different programming languages
+
 ### Security
  - [AmIUnique](https://amiunique.org/fp) - Identifies how unique your digital fingerprint is
  - [Have I Been Pwned](https://haveibeenpwned.com/) - Details security breaches and whether your credentials have been compromised
