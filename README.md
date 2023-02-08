@@ -3,10 +3,15 @@ A collection of resources around software development. Please commit anything ex
 
 ## Resource list
 
+### Book Recommendations
+- [Hacker News 2022](https://news.ycombinator.com/item?id=34055123&fbclid=IwAR0diGdrHM5isaLKisraLKq-XRHdN7Mkuj-d2ZfuR2M6DQll3doPLobHzQE)
+- [Medium](https://fadamakis.com/book-recommendations-for-software-engineers-8b2cba7c6593)
+
 ### Career / Professional Development
 - [CoderByte](https://coderbyte.com/) - Interview prep and coding challenges
 - [HackerRank](https://www.hackerrank.com/) - Interview prep and coding challenges
 - [Katacoda](https://katacoda.com/) - Learn new technologies from your browser
+- [RoadMap](https://roadmap.sh/) - Road maps for different careers in tech
 - [TechRez](https://techrez.io/) - Create professional CV /resume
 
 ### Challenges & Practice
@@ -51,6 +56,7 @@ A collection of resources around software development. Please commit anything ex
 ### Web
  
  - [Can I Use](https://caniuse.com/) - Support table for HTML and CSS
+ - [Defensive CSS](https://defensivecss.dev/) - Practical CSS with examples
  - [No More Google](https://nomoregoogle.com/) - Alternatives from Google products
 
 
