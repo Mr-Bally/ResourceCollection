@@ -39,6 +39,7 @@ A collection of resources around software development. Please commit anything ex
 ### Security
  - [AmIUnique](https://amiunique.org/fp) - Identifies how unique your digital fingerprint is
  - [Have I Been Pwned](https://haveibeenpwned.com/) - Details security breaches and whether your credentials have been compromised
+ - [NCSC](https://www.ncsc.gov.uk/) - UK government centre providing advice on security
  - [Security Headers](https://securityheaders.com/) - Scans website security headers
  - [Shodan](https://www.shodan.io/) - IOT network monitor
  - [Report URI](https://report-uri.com/home/tools) - Number of tools for checking security headers and building content security policies (CSP)
@@ -48,12 +49,14 @@ A collection of resources around software development. Please commit anything ex
  - [daily.dev](https://app.daily.dev/) - Tech articles scrapped and voted upon by the community. Also available as a browser plugin
  - [Feedly](https://feedly.com/i/welcome) - Tool for keeping your information filtered to a small collection of trusted source and reduce noise
  - [Hacker News](https://news.ycombinator.com/) - Collection of user created articles
+ - [UCL Internet Law](https://www.homepages.ucl.ac.uk/~ucqnmve/syllabi/ilp.html) - Free course on internet law by UCL
  - [Morning Dew](https://www.alvinashcraft.com/) - Collection of resource updated regularly by Alvin Ashcraft
  - [Most favorited Hacker News Posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) - Scraped data from Tom Larkworthy
  - [Netflix Tech Blog](https://netflixtechblog.com/) - Insights into how the Netflix platform works
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/) - Book reading list from George Orosz
  - [The Morning Brew](http://themorningbrew.net/) - Daily .NET software blog updated by Chris Alcock
  - [Stay SaaSy](https://staysaasy.com/) - Engineering and business process help
+ - [WebDevLaw](https://webdevlaw.uk/) - Blog centred around UK Law for the internet
 
 ### Web
  - [Can I Use](https://caniuse.com/) - Support table for HTML and CSS
