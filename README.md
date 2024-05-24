@@ -12,6 +12,7 @@ A collection of resources around software development. Please commit anything ex
 - [HackerRank](https://www.hackerrank.com/) - Interview prep and coding challenges
 - [Katacoda](https://katacoda.com/) - Learn new technologies from your browser
 - [RoadMap](https://roadmap.sh/) - Road maps for different careers in tech
+- [Scaler Blog](https://www.scaler.com/blog/) - Career roadmaps for various tech fields
 - [TechRez](https://techrez.io/) - Create professional CV /resume
 
 ### Challenges & Practice
